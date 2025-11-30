@@ -31,7 +31,8 @@ HLeaderboards="*res://addons/epic-online-services-godot/heos/hleaderboards.gd"
 HLobbies="*res://addons/epic-online-services-godot/heos/hlobbies.gd"
 HP2P="*res://addons/epic-online-services-godot/heos/hp2p.gd"
 EOSManager="*res://Scripts/EOSManager.cs"
-AudioController="*res://Sounds/AudioController.cs"
+AudioController="*res://Scripts/Sounds/AudioController.cs"
+SettingsConfig="*res://Scripts/GameSettingsConfig/SettingsConfig.cs"
 
 [display]
 
